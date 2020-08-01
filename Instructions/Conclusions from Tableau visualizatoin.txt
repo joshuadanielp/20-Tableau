@@ -1,0 +1,8 @@
+Conclusions from Tableau visualizatoin HW
+
+- Fairmount Ave & Heights Elevator are the stations with the longest average trip duration. 
+- Friday is the most popular day to start a bike ride.	
+- Adam Clayton Powell & Water-Whitehall Plaza are the two stations with the longest average trip duration. 
+- Thursday is the most popular daty to end a ride.
+- Customers tend to ride much longer than Subscribers. 
+- There seems to be some data issues (outlier of 71 year olds having average trips of 3.5 hours??)
